@@ -1,4 +1,4 @@
-/*Colors and fonts*/
+
 body{
 	background-color: floralwhite;
 	color: floralwhite;
@@ -32,14 +32,13 @@ a:hover {
 }
 
 
- /*Custom design with class*/
+
 .container {
 	width: 700px;
 	margin: 40px auto;
 }
 
 
-/*Custom design with class*/
 
 .container {
 	width: :700px;
@@ -70,6 +69,7 @@ text-align: center;
 
 .img-circle {
 	border-radius: 50%;
+	width: 120px;
 }
 
 .btn-blue {
